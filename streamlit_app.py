@@ -140,5 +140,4 @@ def main():
         st.write("Hammer Pattern Detected in:", hammer)
         st.write("EMA Crossover Detected in:", ema)
 
-if __name__ == "__main__":
-    main()
+main()
